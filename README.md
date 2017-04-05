@@ -1,3 +1,3 @@
 # ngClassifieds
 
-WiP
+WiP of an APP using firebase plus angular
